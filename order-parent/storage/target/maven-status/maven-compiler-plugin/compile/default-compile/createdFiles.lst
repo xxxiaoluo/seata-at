@@ -1,0 +1,7 @@
+com\learn\controller\StorageController.class
+com\learn\DSPAutoConfiguration.class
+com\learn\service\Impl\StorageServiceImpl.class
+com\learn\entity\Storage.class
+com\learn\StorageApplication.class
+com\learn\service\StorageService.class
+com\learn\mapper\StorageMapper.class

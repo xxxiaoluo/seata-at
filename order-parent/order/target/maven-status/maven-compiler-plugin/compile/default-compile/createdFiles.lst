@@ -1,0 +1,11 @@
+com\learn\mapper\OrderMapper.class
+com\learn\feign\EasyIdClient.class
+com\learn\entity\Order.class
+com\learn\feign\AccountClient.class
+com\learn\entity\EasyIdReturnResult.class
+com\learn\feign\StorageClient.class
+com\learn\controller\OrderController.class
+com\learn\service\Impl\OrderServiceImpl.class
+com\learn\DSPAutoConfiguration.class
+com\learn\OrderApplication.class
+com\learn\service\OrderService.class
